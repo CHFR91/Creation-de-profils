@@ -3,7 +3,7 @@ Permet de créer des identités à la volée
 
 J'ai fait ce script pour quand on a besoin de créer un faux profil rapidement.
 
-sexe + nom + prénom
++ sexe + nom + prénom
 + age + date de naissance
 + email
 + adresse + code postal + ville
